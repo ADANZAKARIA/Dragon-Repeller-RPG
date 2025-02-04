@@ -9,4 +9,9 @@ This website makes use of :
 
 .JS
 
+Live Site & URL Status
+
+https://dragon-repeller-rpg1.netlify.app/
+
+Please Feel Free To Have a Look :)
 
